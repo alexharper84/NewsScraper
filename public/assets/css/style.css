@@ -1,0 +1,37 @@
+.jumbotron {
+  text-align: center;
+}
+
+#apple-header {
+  width: 15%;
+}
+
+#scrape-news-button {
+  background-color: #209B35;
+  color: #fff;
+}
+
+img {
+  width: 25%;
+  height: 25%;
+  float: inherit;
+  padding: 20px;
+}
+
+.article-card {
+  margin-top: 20px;
+}
+
+.article-header {
+  background: #DFF0D8;
+  color: #3C765E;
+}
+
+.deleteComment {
+  float: right;
+}
+
+.footer {
+  padding: 20px;
+  text-align: center;
+}
